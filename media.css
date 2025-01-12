@@ -1,0 +1,9 @@
+@media (min-width: 768px) {
+    .col-md-3.p-3 {
+        padding-right: 0 !important; /* Remove padding for medium and larger screens */
+    }
+
+    .col-md-2.p-3 {
+        padding-left: 0 !important; /* Remove padding for medium and larger screens */
+    }
+}
